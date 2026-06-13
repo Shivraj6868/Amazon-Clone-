@@ -121,3 +121,36 @@
 .nav_Cart_Section i {
     font-size: 30px;
 }
+
+.panel {
+    display: flex;
+    height: 40px;
+    color: white;
+    background-color: #222f3d;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.panel_all {
+    height:37px;
+    display: flex;
+    align-items: center;
+}
+.panel_text {
+    width:70%;
+}  
+
+.panel_text p {
+    display: inline-block;
+    font-size: 0.85rem;
+    margin-left: 15px;
+}
+
+.panel_deals {
+    font-size: 0.9rem;
+    font-weight: 700;
+    height:37px;
+    display: flex;
+    align-items: center;
+}
+
