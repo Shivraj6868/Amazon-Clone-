@@ -154,3 +154,27 @@
     align-items: center;
 }
 
+.hero_section {
+    background-image: url("hero_image.jpg");
+    background-size: cover;
+    height: 400px;
+}
+
+.hero_msg {
+    display: flex;
+    background-color: aliceblue;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.85rem;
+    width: 95%;
+    position: relative;
+    left:30px;
+    top: 230px;
+
+}
+
+.hero_msg a {
+    color: #007185;
+}
+
