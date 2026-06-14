@@ -231,7 +231,7 @@ footer {
     color: white;
     display: flex;
     justify-content: space-evenly;
-    height: 500px;
+    height: 300px;
 }
 
 ul a{
@@ -244,5 +244,16 @@ ul a{
 ul p {
     margin-top: 35px;
     font-weight: 900;
+}
+
+.footer_box_3 {
+    background-color: #222f3d;
+    height:100px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    border-top: 0.5px solid white;
 }
 
