@@ -214,5 +214,15 @@
     margin-left: 4px;
 }
 
+.footer_box_1 {
+    color: white;
+    background-color: #37475a;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
 
 
