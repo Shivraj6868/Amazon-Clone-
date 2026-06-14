@@ -213,6 +213,9 @@
     margin-top: 10px;
     margin-left: 4px;
 }
+footer {
+    margin-top: 20px;
+}
 
 .footer_box_1 {
     color: white;
@@ -221,8 +224,25 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 20px;
 }
 
+.footer_box_2 {
+    background-color: #222f3d;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    height: 500px;
+}
 
+ul a{
+    display: block;
+    font-size: 0.85rem;
+    margin-top: 12px;
+    color: #DDDDDD;
+}
+
+ul p {
+    margin-top: 35px;
+    font-weight: 900;
+}
 
