@@ -20,25 +20,24 @@ This project was created to practice real-world frontend development concepts li
 
 ## 🏠 Homepage
 
-![Amazon Clone Homepage](./assets/homepage.png)
-
+<img width="1277" height="661" alt="image" src="https://github.com/user-attachments/assets/5ce676de-36b0-4b81-ae1d-6971c2afd0c2" />
 
 
 ## 🔍 Category Dropdown Menu
 
-![Amazon Clone Dropdown](./assets/dropdown.png)
+<img width="639" height="656" alt="image" src="https://github.com/user-attachments/assets/f9e64193-e25b-45ea-8932-f388cae4a25b" />
 
 
 
 ## 🧭 Navigation Bar
 
-![Amazon Clone Navbar](./assets/navbar.png)
+<img width="1279" height="99" alt="image" src="https://github.com/user-attachments/assets/3efa6033-bb29-4871-b614-0bdb35ccb242" />
 
 
 
 ## 📌 Footer Section
 
-![Amazon Clone Footer](./assets/footer.png)
+<img width="1278" height="661" alt="image" src="https://github.com/user-attachments/assets/19b62e8a-5c05-4bff-9fb9-bea29bcf76ee" />
 
 
 
