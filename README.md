@@ -8,9 +8,9 @@ This project was created to practice real-world frontend development concepts li
 
 ## 🌐 Live Demo
 
-🚀 Website Link:
+🚀 Website Link: https://shivraj6868.github.io/Amazon-Clone-/
 
-https://shivraj6868.github.io/Amazon-Clone/
+
 
 
 ---
