@@ -55,9 +55,7 @@ This project was created to practice real-world frontend development concepts li
 - ✅ Footer section
 - ✅ Hover effects
 - ✅ CSS positioning
-- ✅ Responsive layout structure
 - ✅ Git tracked development workflow
-
 
 
 ---
@@ -77,7 +75,6 @@ This project was created to practice real-world frontend development concepts li
 - Git
 - GitHub
 - GitHub Pages
-
 
 
 ---
