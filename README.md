@@ -8,9 +8,7 @@ This project was created to practice real-world frontend development concepts li
 
 ## 🌐 Live Demo
 
-🚀 Website Link: https://shivraj6868.github.io/Amazon-Clone-/
-
-
+🚀 Website Link: https://clone-hub-gzls.vercel.app/
 
 
 ---
